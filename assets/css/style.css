@@ -1,0 +1,52 @@
+body{
+    margin: 20px 30px;
+    font-family: 'Quicksand', sans-serif;
+}
+.para {
+    padding: 1px 20px 350px 20px ;
+    background-color:  #BCE2F8;
+}
+
+img{
+    width: 60px;
+    height: 60px;
+}
+h1{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 30px;
+}
+.small{
+    padding-left: 180px;
+    
+}
+#one {
+    float: left;
+    margin-left: 120px;
+    padding: 25px 0px 0px 20px;
+    width: 300px;
+    height: 260px;
+    background-color:white;
+    border-radius: 15px;
+}
+#two {
+    float: left;
+    padding: 25px 0px 0px 20px;
+    margin-left: 120px;
+    width: 300px;
+    height: 260px;
+    background-color:white;
+    border-radius: 15px;
+}
+#three {
+    float: left;
+    margin-left: 120px;
+    padding: 25px 0px 0px 20px;  
+    width: 300px;
+    height: 260px;
+    background-color:white;
+    border-radius: 15px;
+}
+summa{
+    font-family: 'Quicksand', sans-serif;
+font-family: 'Reenie Beanie', cursive;
+}
